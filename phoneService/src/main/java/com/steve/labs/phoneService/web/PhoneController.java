@@ -1,7 +1,7 @@
-package com.steve.labs.reactiveLab.web;
+package com.steve.labs.phoneService.web;
 
-import com.steve.labs.reactiveLab.domain.Phone;
-import com.steve.labs.reactiveLab.service.PhoneService;
+import com.steve.labs.phoneService.domain.Phone;
+import com.steve.labs.phoneService.service.PhoneService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -1,10 +1,10 @@
-package com.steve.labs.reactiveLab.web;
+package com.steve.labs.phoneService.web;
 
 import static org.mockito.BDDMockito.given;
 
-import com.steve.labs.reactiveLab.PhoneServiceApplication;
-import com.steve.labs.reactiveLab.domain.Phone;
-import com.steve.labs.reactiveLab.repository.PhoneReactiveRepository;
+import com.steve.labs.phoneService.PhoneServiceApplication;
+import com.steve.labs.phoneService.domain.Phone;
+import com.steve.labs.phoneService.repository.PhoneReactiveRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

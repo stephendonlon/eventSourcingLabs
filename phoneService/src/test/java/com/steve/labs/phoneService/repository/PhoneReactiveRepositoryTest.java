@@ -1,10 +1,10 @@
-package com.steve.labs.reactiveLab.repository;
+package com.steve.labs.phoneService.repository;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
-import com.steve.labs.reactiveLab.PhoneServiceApplication;
-import com.steve.labs.reactiveLab.domain.Phone;
+import com.steve.labs.phoneService.PhoneServiceApplication;
+import com.steve.labs.phoneService.domain.Phone;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

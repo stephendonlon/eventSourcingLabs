@@ -1,10 +1,10 @@
-package com.steve.labs.reactiveLab;
+package com.steve.labs.phoneService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PhoneServiceApplicationTests {
+class PhoneServiceImplApplicationTests {
 
 	@Test
 	void contextLoads() {

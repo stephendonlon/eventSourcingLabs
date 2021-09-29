@@ -1,4 +1,4 @@
-package com.steve.labs.reactiveLab.domain;
+package com.steve.labs.phoneService.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

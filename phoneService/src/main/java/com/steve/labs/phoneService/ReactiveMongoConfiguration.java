@@ -1,8 +1,8 @@
-package com.steve.labs.reactiveLab;
+package com.steve.labs.phoneService;
 
 import com.mongodb.reactivestreams.client.MongoClient;
 import com.mongodb.reactivestreams.client.MongoClients;
-import com.steve.labs.reactiveLab.repository.PhoneReactiveRepository;
+import com.steve.labs.phoneService.repository.PhoneReactiveRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.data.mongodb.config.AbstractReactiveMongoConfiguration;
 import org.springframework.data.mongodb.core.ReactiveMongoTemplate;
