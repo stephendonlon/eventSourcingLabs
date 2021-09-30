@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: "root"
+    password: ""
+    url: "jdbc:mysql://localhost:3306/phone-command-db?createDatabaseIfNotExists=true"
+    driverClassName: "com.mysql.cj.jdbc.Driver"

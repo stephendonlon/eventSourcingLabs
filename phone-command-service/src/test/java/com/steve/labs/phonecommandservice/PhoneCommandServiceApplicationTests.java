@@ -8,6 +8,7 @@ class PhoneCommandServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
